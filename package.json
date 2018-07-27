@@ -26,6 +26,7 @@
   "dependencies": {
     "bitcore-mnemonic": "^1.5.0",
     "eth-lightwallet": "^3.0.1",
+    "ethereumjs-util": "^5.2.0",
     "ethereumjs-wallet": "^0.6.0",
     "hooked-web3-provider": "^1.0.0",
     "keythereum": "^1.0.4",
